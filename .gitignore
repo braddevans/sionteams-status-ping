@@ -1,1 +1,6 @@
 /package-lock.json
+/.idea/.gitignore
+/.idea/empty-testing.iml
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/vcs.xml
