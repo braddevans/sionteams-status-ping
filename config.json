@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "webhook": "https://canary.discord.com/api/webhooks/<channel_id>/<Hook_token>",
+  "Owner": "slicedbread",
+  "Siteids": [
+    54,
+    53,
+    51
+  ]
+}
